@@ -1,1 +1,1 @@
-# second-order-adversarial-examples
+This repository contains code and datasets for the experiments in the paper "Second-order adversarial examples" submitted to the [BlackboxNLP workshop](https://blackboxnlp.github.io/cfp.html) at EMNLP 2020.
