@@ -6,4 +6,7 @@ This repository contains code and datasets for the experiments in the paper "Sec
 	- `s5_attack_snli.ipynb`: SNLI entailment dataset
 	- `s5_attack_mr.ipynb`: Rotten Tomatoes/Movie Review/MR sentiment classification dataset
 
-
+The appendix shows the results of some exploratory data analysis, testing BERTScore and USE on QQP, PAWS, and our custom 'Adversarial SNLI' dataset. These experiments were also conducted in one notebook per dataset:
+	- `s99_app_s2_constraints_qqp.ipynb`: QQP (Quora Question Pairs) paraphrase identification dataset
+	- `s99_app_s2_constraints_paws.ipynb`: PAWS (Paraphrase Adversaries from Word Scrambling) _adversarial_ paraphrase dataset (PAWS is an adversarially-altered version of QQP)
+	- `s99_app_s2_testing_constraints_adversarial_snli.ipynb`: Adversarial SNLI (also contains the code for generating Adversarial SNLI from the original SNLI dataset)
